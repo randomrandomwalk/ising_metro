@@ -1,5 +1,5 @@
 # ising_metro
-The classical Ising model is simulated with Python using the Metropolis algorithm.
+The classical Ising model (Spin is a classical binary variable) is simulated with Python using the Metropolis algorithm.
 
 #Underlying theory
 
