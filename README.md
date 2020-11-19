@@ -1,2 +1,2 @@
 # ising_metro
-Ising model in python using the Metropolis algorithm
+The classical Ising model is simulated with Python using the Metropolis algorithm.
